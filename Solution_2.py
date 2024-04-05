@@ -15,13 +15,7 @@ print("""
 # Dictionary to store movie data
 movie_collection = {}
 
-
-
-movie_collection={}
-
-
 # Function to add a movie to the collection
-
 def add_movie():
     movie_name = input("Enter the Movie Name:")
     director = input("Enter the Director:")
